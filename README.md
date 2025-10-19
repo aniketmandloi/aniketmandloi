@@ -1,6 +1,6 @@
 ## I'm Aniket, and I want to do Great Things with Coding
 
-![Coding Animation](./hero.GIF)
+![Coding Animation](./hq720.jpg)
 
 I love TypeScript, React, Nextjs, Supabase/Convex/Neon, and Node.js, Prisma/drizzle.
 
