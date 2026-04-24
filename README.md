@@ -6,7 +6,8 @@ I love TypeScript, React, Nextjs, Supabase/Convex/Neon, and Node.js, Prisma/driz
 
 ### Current Projects
 
-- Building [Hallucent AI](https://hallucent-ai.vercel.app/) - An AI Hallucination Detection SaaS
+- Building [HallGuard AI](https://hallguard-ai-web.vercel.app/) - An AI Hallucination Detection SaaS
+- Building [Field Intel](https://field-intel.vercel.app/) - Voice to CRM app for field reps
 - Developing a Decentralized Crypto Exchange (DEX) at Black Wallet LTD
 - Leading cross-platform mobile app development for Manabu Method NGO
 
